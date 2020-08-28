@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "markhub.jwt",
+      "type": "com.markhub.util.JwtUtils",
+      "sourceType": "com.markhub.util.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "markhub.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.markhub.util.JwtUtils",
+      "defaultValue": 0
+    },
+    {
+      "name": "markhub.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.markhub.util.JwtUtils"
+    },
+    {
+      "name": "markhub.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.markhub.util.JwtUtils"
+    }
+  ],
+  "hints": []
+}
