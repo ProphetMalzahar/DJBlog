@@ -1,9 +1,19 @@
-# 这是一个简单的博客系统。
+# 这是一个简单的博客系统。  
 
-学习期间做的一个demo。
-还是分开上传吧，合并上传出了点问题，这部分是后端。
-[前端链接](https://github.com/ProphetMalzahar/DJBlog-vue)
-后续会部署到阿里云，最近求职比较忙~~懒~~。
+
+学习期间做的一个demo。  
+
+
+这部分是后端。  
+
+
+这是[前端链接](https://github.com/ProphetMalzahar/DJBlog-vue)  
+
+
+后续会部署到阿里云，最近求职比较忙~~懒~~。  
+
+
+
 
 ## 截图
 
